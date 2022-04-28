@@ -40,7 +40,7 @@ The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value 
 
 {::boilerplate bcp14-tagged}
 
-# Update to RFC3326
+# Update to RFC 3326
 
 The last paragraph of section 2 of {{RFC3326}} is replaced as follows:
 
